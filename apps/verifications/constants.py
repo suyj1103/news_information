@@ -1,0 +1,14 @@
+# 短信有效期
+SMS_CODE_EXPIRES  =5 *60
+
+# 短信过期时间
+SMS_CODE_EXPIRES_TIME = 60
+
+# 短信模板
+SMS_TEMPLATE = 1
+
+RANDOM_TEMPLATE = 999999
+
+
+
+
